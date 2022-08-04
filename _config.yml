@@ -1,7 +1,7 @@
-title: Long Haul
+title: Tien Nguyen
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://long-haul.netlify.app
+url: https://nguditi.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -22,13 +22,8 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
-
-google_analytics: "UA-58263416-1"
+  github: nguditi
+  email: tienandehit@gmail.com
 
 disqus:
-    shortname: brianmaierjr
+    shortname: tiennd
